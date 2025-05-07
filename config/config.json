@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "u949388422_navneet",
+    "password": "Nav@1803",
+    "database": "u949388422_navneet",
+    "host": "217.21.84.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
