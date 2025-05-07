@@ -88,7 +88,16 @@ app.listen(PORT, () => {
 
 
 
-console.log("hello my nigga")
+console.log("hello my niggadasfasdff");
+
+console.log("to the dawn");
+
+console.log("hehehehe");
+
+
+function add(a, b) {
+    return a + b;
+}
 
 
 
