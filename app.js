@@ -122,7 +122,10 @@ console.log("they are allowing the ")
 
 
 
+function aboveb() {
+    console.log("this is above 7")
 
+}
 
 
 
