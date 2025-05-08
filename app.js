@@ -143,7 +143,9 @@ function checkout() {
 
 
 
-
+function hot() {
+    console.log("checout of the room")
+}
 
 
 
