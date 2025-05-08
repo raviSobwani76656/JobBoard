@@ -113,6 +113,9 @@ function above18(age) {
 }
 
 
+console.log("they are allowing the ")
+
+
 
 
 
