@@ -136,6 +136,11 @@ function aboveb() {
 
 }
 
+function checkout() {
+    console.log("Checkout of the room an hour ago");
+    console.log("chcekout out of the branch ");
+}
+
 
 
 
