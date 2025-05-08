@@ -106,7 +106,11 @@ function sub(a, b) {
 
 
 
+function above18(age) {
 
+    return age > 18;
+
+}
 
 
 
