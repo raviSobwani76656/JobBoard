@@ -117,6 +117,11 @@ console.log("they are allowing the ")
 
 
 
+const newFeature = () => {
+    console.log("New Feature Added")
+}
+
+
 
 
 
